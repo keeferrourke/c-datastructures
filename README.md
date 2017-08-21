@@ -49,8 +49,7 @@ parentheses.
     + It is worth noting that prior to the final exam, I had a 97.8% in
       the course, with 100% on every assignment &mdash; lesson learned,
       sleep is important before a final
- * ??% &mdash; CIS2520 &mdash; [2nd year] Data Structures (C)
-    + Currently enrolled
+ * 98% &mdash; CIS2520 &mdash; [2nd year] Data Structures (C)
  
  ### Still unconvinced?
  If you need to see demonstrable C code, for a valid reason (perhaps you
