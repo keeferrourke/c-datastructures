@@ -1,11 +1,23 @@
-# C Data Structures
+# Competency, with C
+This repository is a disclaimer that, yes, I can and do code in C. For
+reasons that are beyond my control, I am unable to post of my project
+work written in the C programming language, in order to comply with
+University academic policies.
+
+**You will find no actual code here.**
+
 This repository is a plug for <https://git.krourke.org> &mdash; go there
-if you need proof that I can code in C.
+if you need to access significant project-work written in C.
 
 You will need to request a temporary account to view any code that is
 stored there. [Contact](https://krourke.org/contact) me to do so.
 
-**You will find no actual code here.**
+Alternatively, take a look at my public library [`libsea`](https://github.com/keeferrourke/libsea).
+This library is a limited set of frameworks, fully-fleshed out data
+structures, and utility functions that I have coded in my own time,
+of my own volition, outside the context of academics. This should give
+you an idea of what I'm capable of without requesting access to my
+private git repositories.
 
 ## So, why is this here?
 Chances are that you're looking at my Github because you're trying to get
