@@ -1,8 +1,8 @@
 # Competency, with C
 This repository is a disclaimer that, yes, I can and do code in C. For
-reasons that are beyond my control, I am unable to post of my project
-work written in the C programming language, in order to comply with
-University academic policies.
+reasons that are beyond my control, I am unable to post most of my
+project work written in the C programming language, in order to comply
+with University academic policies.
 
 **You will find no actual code here.**
 
